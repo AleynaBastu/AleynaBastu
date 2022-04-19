@@ -28,7 +28,7 @@ Hello ! I'm Aleyna
 <img alt=".NET Core" src="https://img.shields.io/badge/.NET Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="25px"/>
 </p>
 
-###Os : 
+### Os : 
 <p>
 <img alt="apple" src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=macos&logoColor=white" height="25px"/>
 <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25px"/>
