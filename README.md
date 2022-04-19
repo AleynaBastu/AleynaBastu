@@ -9,7 +9,7 @@ Hello ! I'm Aleyna
 -  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019(intel)-999999?style=for-the-badge&logo=apple&logoColor=white" height="20px"/>
 
 
-##🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools I use:
 
 ### FrontEnd :
 <p>
