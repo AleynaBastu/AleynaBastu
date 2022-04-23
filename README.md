@@ -6,6 +6,8 @@ Hello ! I'm Aleyna
 
 - 🌱 I’m currently studying Computer Science
 
+- Planning to learn MongoDB & MEAN Stack
+
 -  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019(intel)-999999?style=for-the-badge&logo=apple&logoColor=white" height="20px"/>
 
 
